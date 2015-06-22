@@ -14,6 +14,9 @@ static int d = 222;
 int foo3(int a, int &b = d);
 
 
+/*
+    Тест git
+*/
 
 int main(int argc, char *argv[]){
 	// 1
